@@ -1,5 +1,6 @@
-.left-space{
+.leftspace{
     position: absolute;
+    margin-top: 196px;
     left: 256px;
-    
+    width:calc(100% - 256px)
   }
