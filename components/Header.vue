@@ -4,6 +4,8 @@
         <br>
         <a href="/works" class="block text-2xl text-center">Works</a>
         <br>
-        <a href="" class="block text-2xl text-center">Contact</a>
+        <a href="/news" class="block text-2xl text-center">News</a>
+        <br>
+        <a href="/contact" class="block text-2xl text-center">Contact</a>
     </div>
 </template>
