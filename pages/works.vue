@@ -9,7 +9,7 @@
     </div>
     <div>
         <div v-show="tab === 1" class="flex flex-wrap">
-            <Workinfo name="アスレチック" desc="文化祭に出した最初のゲームです。リンクはないのでダミーで許してください" img_path='/image/im.png' download_url="https://example.com"/>
+            <Workinfo name="アスレチック" desc="文化祭に出した最初のゲームです。リンクはないのでダミーで許してください" img_path='/image/asure.png' download_url="https://example.com"/>
             <Workinfo name="サンプル" desc="写真は適当です。" img_path="image/img2.png" download_url="https://example.com"/>
             <Workinfo name="サンプル" desc="写真は適当です。" img_path="image/kazu.png"/>
             <Workinfo name="サンプル" desc="写真は適当です。" img_path="image/im.png"/>
@@ -18,7 +18,7 @@
             <Workinfo name="サンプル" desc="写真は適当です。" img_path="image/im.png"/>
         </div>
         <div v-show="tab === 2" class="flex flex-wrap">
-            <Workinfo name="Swarm" desc="なんちゃらSurvivorsの簡易版を作ってみました"/>
+            <Workinfo name="Swarm" desc="なんちゃらSurvivorsの簡易版を作ってみました" img_path="/image/Swarm.png" download_url="https://example.com"/>
             <Workinfo name="サンプル" desc="要素多めのとき"/>
             <Workinfo name="サンプル" desc="要素多めのとき"/>
             <Workinfo name="サンプル" desc="要素多めのとき"/>
@@ -34,7 +34,7 @@
             <Workinfo name="サンプル" desc="要素多めのとき"/>
         </div>
         <div v-show="tab === 3" class="flex flex-wrap">
-            <Workinfo name="このウェブサイト" desc="今年最初のまともな作品です。"/>
+            <Workinfo name="このウェブサイト" desc="今年最初のまともな作品です。" img_path="/image/website.png"/>
             <Workinfo name="サンプル" desc="要素多めのとき"/>
             <Workinfo name="サンプル" desc="要素多めのとき"/>
             <Workinfo name="サンプル" desc="要素多めのとき"/>
